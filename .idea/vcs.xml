@@ -4,9 +4,9 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HHAExchange" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Playwright-HHAExchange-Report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anchor_reports_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/anchor_scripts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/caregiver_team" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/caregiver_team_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ramp_expenses" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/recruitee_data_analysis" vcs="Git" />
   </component>
