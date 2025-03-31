@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$USER_HOME$/Documents/Pycharm Projects/anchor_scripts" vcs="Git" />
-    <mapping directory="$USER_HOME$/Documents/Pycharm Projects/caregiver_team" vcs="Git" />
-    <mapping directory="$USER_HOME$/Documents/Pycharm Projects/ramp_expenses" vcs="Git" />
-    <mapping directory="$USER_HOME$/Documents/Pycharm Projects/recruitee_data_analysis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HHAExchange" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Playwright-HHAExchange-Report" vcs="Git" />
