@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="Playwright-HHAExchange-Report" />
     <orderEntry type="module" module-name="ramp_expenses" />
     <orderEntry type="module" module-name="Pycharm Projects" />
+    <orderEntry type="module" module-name="salesforce" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
